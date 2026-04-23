@@ -42,14 +42,14 @@ note app, not a task manager.
 
 | Layer | Technology |
 |---|---|
-| Framework | Next.js 14 (App Router) |
+| Framework | Next.js 16 (App Router) |
 | Language | TypeScript |
 | Database | PostgreSQL |
 | ORM | Prisma |
 | Styling | Tailwind CSS |
-| Payments | Stripe (subscriptions + webhooks) |
+| Payments | DODO payments (subscriptions + webhooks) |
 | Deployment | AWS / Vercel |
-| Auth | Custom auth implementation |
+| Auth | BetterAuth implementation |
 
 ---
 
@@ -80,7 +80,7 @@ shiplog/
 
 ## What I Learned Building This
 
-- Stripe webhook handling and subscription lifecycle management
+- DODO payments webhook handling and subscription lifecycle management
 - Next.js App Router patterns for auth-protected routes
 - Prisma schema design for multi-tenant SaaS data
 - Product positioning and conversion copywriting
