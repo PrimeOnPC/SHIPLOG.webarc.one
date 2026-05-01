@@ -4,7 +4,8 @@
 > and reveals which ones actually matter — so you can stop thinking 
 > and start shipping.
 
-🔗 **Live at:** [shiplog.webarc.one](https://shiplog.webarc.one)
+🔗 **V2 Live at:** [shiplog.one](https://shiplog.one)
+🔗 **MVP available to try at:** [shiplog.webarc.one](https://shiplog.webarc.one)
 
 ---
 
